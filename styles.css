@@ -1,0 +1,50 @@
+.round-one {
+    text-align: center;
+    font-size: 30px;
+}
+
+.scissors-round {
+    text-align: center;
+    font-size: 30px;
+}
+
+.treasure-chest {
+    width: 40%;
+    margin: auto;
+    display: block;
+}
+
+.gold {
+    width: 40%;
+    margin: auto;
+    display: block;
+}
+
+.scissors-prize {
+    text-align: center;
+    font-size: 30px;
+}
+
+.rock-round {
+    text-align: center;
+    font-size: 30px;
+}
+
+.paper-round {
+    text-align: center;
+    font-size: 30px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+    margin: auto;
+}
+
+.opponent-paper {
+    width: 20%;
+    margin: auto;
+    display: block;
+    padding: 100px;
+}
